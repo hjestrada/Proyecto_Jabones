@@ -1,8 +1,6 @@
 
 @ECHO OFF
 
-PowerShell.exe -Command "CD D:\PROYECTO JABONES"
-
 git add .
 git commit -m "Comando %RANDOM%"
  
