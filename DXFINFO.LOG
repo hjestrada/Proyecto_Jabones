@@ -1,0 +1,1164 @@
+WARNING (------): DXF version not recognised or not release 12-15.
+ASCII DXF release 15 is recommended
+XRECORD: name="ACDB_RECOMPOSE_DATA", handle="228", group="280", value="     1"
+WARNING (122850): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (128184): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (128192): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (128200): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (128208): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (128216): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (128224): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (128232): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (128240): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (128248): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (128256): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (128264): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (128272): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (128280): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (128288): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (128292): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (128300): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (128308): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (128316): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (128320): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (128328): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (128336): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (128344): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (128352): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (128360): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (128368): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (128376): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (128380): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (128388): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (128396): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (128404): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (128412): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (128420): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (128428): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (129184): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (129192): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (129200): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (129208): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (129216): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (129224): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (129232): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (129240): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (129248): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (129256): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (129264): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (129272): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (129280): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (129288): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (129292): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (129300): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (129308): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (129316): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (129320): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (129328): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (129336): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (129344): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (129352): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (129360): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (129368): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (129376): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (129380): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (129388): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (129396): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (129404): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (129412): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (129420): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (129428): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (130184): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (130192): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (130200): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (130208): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (130216): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (130224): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (130232): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (130240): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (130248): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (130256): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (130264): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (130272): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (130280): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (130288): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (130292): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (130300): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (130308): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (130316): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (130320): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (130328): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (130336): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (130344): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (130352): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (130360): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (130368): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (130376): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (130380): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (130388): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (130396): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (130404): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (130412): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (130420): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (130428): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (131184): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (131192): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (131200): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (131208): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (131216): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (131224): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (131232): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (131240): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (131248): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (131256): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (131264): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (131272): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (131280): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (131288): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (131292): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (131300): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (131308): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (131316): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (131320): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (131328): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (131336): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (131344): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (131352): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (131360): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (131368): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (131376): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (131380): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (131388): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (131396): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (131404): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (131412): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (131420): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (131428): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (132184): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (132192): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (132200): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (132208): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (132216): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (132224): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (132232): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (132240): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (132248): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (132256): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (132264): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (132272): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (132280): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (132288): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (132292): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (132300): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (132308): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (132316): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (132320): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (132328): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (132336): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (132344): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (132352): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (132360): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (132368): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (132376): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (132380): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (132388): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (132396): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (132404): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (132412): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (132420): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (132428): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (133184): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (133192): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (133200): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (133208): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (133216): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (133224): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (133232): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (133240): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (133248): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (133256): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (133264): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (133272): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (133280): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (133288): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (133292): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (133300): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (133308): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (133316): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (133320): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (133328): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (133336): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (133344): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (133352): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (133360): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (133368): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (133376): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (133380): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (133388): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (133396): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (133404): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (133412): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (133420): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (133428): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (134184): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (134192): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (134200): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (134208): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (134216): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (134224): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (134232): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (134240): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (134248): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (134256): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (134264): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (134272): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (134280): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (134288): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (134292): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (134300): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (134308): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (134316): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (134320): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (134328): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (134336): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (134344): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (134352): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (134360): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (134368): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (134376): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (134380): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (134388): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (134396): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (134404): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (134412): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (134420): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (134428): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (135184): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (135192): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (135200): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (135208): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (135216): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (135224): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (135232): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (135240): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (135248): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (135256): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (135264): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (135272): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (135280): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (135288): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (135292): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (135300): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (135308): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (135316): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (135320): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (135328): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (135336): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (135344): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (135352): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (135360): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (135368): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (135376): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (135380): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (135388): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (135396): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (135404): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (135412): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (135420): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (135428): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (136184): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (136192): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (136200): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (136208): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (136216): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (136224): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (136232): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (136240): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (136248): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (136256): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (136264): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (136272): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (136280): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (136288): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (136292): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (136300): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (136308): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (136316): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (136320): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (136328): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (136336): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (136344): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (136352): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (136360): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (136368): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (136376): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (136380): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (136388): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (136396): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (136404): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (136412): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (136420): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (136428): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (137184): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (137192): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (137200): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (137208): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (137216): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (137224): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (137232): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (137240): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (137248): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (137256): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (137264): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (137272): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (137280): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (137288): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (137292): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (137300): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (137308): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (137316): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (137320): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (137328): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (137336): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (137344): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (137352): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (137360): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (137368): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (137376): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (137380): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (137388): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (137396): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (137404): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (137412): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (137420): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (137428): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (138184): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (138192): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (138200): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (138208): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (138216): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (138224): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (138232): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (138240): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (138248): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (138256): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (138264): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (138272): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (138280): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (138288): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (138292): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (138300): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (138308): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (138316): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (138320): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (138328): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (138336): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (138344): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (138352): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (138360): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (138368): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (138376): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (138380): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (138388): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (138396): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (138404): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (138412): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (138420): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (138428): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (139184): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (139192): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (139200): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (139208): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (139216): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (139224): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (139232): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (139240): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (139248): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (139256): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (139264): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (139272): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (139280): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (139288): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (139292): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (139300): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (139308): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (139316): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (139320): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (139328): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (139336): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (139344): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (139352): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (139360): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (139368): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (139376): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (139380): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (139388): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (139396): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (139404): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (139412): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (139420): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (139428): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (001534): BLOCKS section group 70 unknown/not supported - ignored.
+WARNING (001558): LAYER object group 347 unknown/not supported - ignored.
+WARNING (001582): LAYER object group 347 unknown/not supported - ignored.
+WARNING (001848): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (001850): BLOCK object group 1 unknown/not supported - ignored.
+SYMBOL: layer="0", name="*Model_Space", org=(0,0), 0 entities.
+WARNING (001872): BLOCK object group 67 unknown/not supported - ignored.
+WARNING (001888): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (001890): BLOCK object group 1 unknown/not supported - ignored.
+SYMBOL: layer="0", name="*Paper_Space", org=(0,0), 0 entities.
+WARNING (001900): BLOCKS section group 67 unknown/not supported - ignored.
+WARNING (001928): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (001930): BLOCK object group 1 unknown/not supported - ignored.
+SYMBOL: layer="0", name="*Paper_Space0", org=(0,0), 0 entities.
+SPLINE entity, line 1950
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 2122
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 2326
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 2530
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 2734
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=16
+SPLINE entity, line 2874
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 3110
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=36
+SPLINE entity, line 3410
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 3614
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 3786
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 3990
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=440
+SPLINE entity, line 7522
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 7726
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=92
+SPLINE entity, line 8472
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=16
+SPLINE entity, line 8610
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=136
+SPLINE entity, line 9708
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 9910
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=72
+SPLINE entity, line 10496
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 10730
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 10900
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 11102
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=16
+SPLINE entity, line 11240
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 11442
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=16
+SPLINE entity, line 11580
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 11750
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 11952
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 12122
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 12356
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 12526
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=32
+SPLINE entity, line 12792
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=36
+SPLINE entity, line 13090
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 13292
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 13462
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 13632
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 13866
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=32
+SPLINE entity, line 14132
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 14334
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 14536
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 14706
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=16
+SPLINE entity, line 14844
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 15014
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 15216
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 15450
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 15620
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 15854
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 16024
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 16194
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 16396
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=40
+SPLINE entity, line 16726
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 16960
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 17130
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 17332
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 17502
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 17672
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=16
+SPLINE entity, line 17810
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 18012
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 18182
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 18352
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 18522
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 18692
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=16
+SPLINE entity, line 18830
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 19000
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 19170
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 19340
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 19510
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 19744
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 19978
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 20148
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 20318
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 20520
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 20690
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 20860
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=16
+SPLINE entity, line 20998
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 21168
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 21338
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 21508
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 21710
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 21880
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 22050
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 22220
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 22390
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 22560
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 22794
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 22964
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=16
+SPLINE entity, line 23102
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 23336
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=16
+SPLINE entity, line 23474
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=40
+SPLINE entity, line 23804
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 24006
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 24176
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 24378
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 24580
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=44
+SPLINE entity, line 24942
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=60
+SPLINE entity, line 25432
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=92
+SPLINE entity, line 26178
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=40
+SPLINE entity, line 26508
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=48
+SPLINE entity, line 26902
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=36
+SPLINE entity, line 27200
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=72
+SPLINE entity, line 27786
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 27956
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 28574
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=52
+SPLINE entity, line 29000
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=40
+SPLINE entity, line 29330
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 29948
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 30566
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 31184
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 31802
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 32420
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 32654
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=32
+SPLINE entity, line 32920
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 33090
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 33292
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 33526
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 33696
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 33898
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 34132
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 34302
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 34472
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 35090
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 35708
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 36326
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 36944
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 37562
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 37796
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 38030
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 38200
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 38402
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 38636
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 38806
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 39008
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 39242
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 39412
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 39582
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 40200
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 40818
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 41436
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 42054
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 42672
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 42906
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 43140
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 43310
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 43512
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 43746
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 43916
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 44118
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 44352
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 44522
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 44692
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 45310
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 45928
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 46546
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 47164
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 47782
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 48016
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 48250
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 48420
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 48654
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 48888
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 49058
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 49260
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 49494
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 49664
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 49834
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 50452
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 51070
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 51688
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 52306
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 52924
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=32
+SPLINE entity, line 53190
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 53424
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 53594
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 53796
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 54030
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 54200
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 54402
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 54636
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 54806
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 54976
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=120
+SPLINE entity, line 55946
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=120
+SPLINE entity, line 56916
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=120
+SPLINE entity, line 57886
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=120
+SPLINE entity, line 58856
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=120
+SPLINE entity, line 59826
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=120
+SPLINE entity, line 60796
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 60966
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 61136
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 61370
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 61604
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=32
+SPLINE entity, line 61870
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 62104
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 62306
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 62540
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=32
+SPLINE entity, line 62806
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 62976
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 63178
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=32
+SPLINE entity, line 63444
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=32
+SPLINE entity, line 63710
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 63880
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 64114
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 64284
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 64518
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 64688
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 64858
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 65060
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 65262
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 65432
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 65602
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 65836
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 66038
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 66272
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 66506
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 66676
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 66878
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 67080
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 67282
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 67516
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 67750
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 67952
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 68122
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=36
+SPLINE entity, line 68420
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=36
+IMAGE entity, line 68718
+WARNING (068718): Entity expected, found 'IMAGE' - ignored.
+SPLINE entity, line 68788
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=16
+IMAGE entity, line 68926
+WARNING (068926): Entity expected, found 'IMAGE' - ignored.
+SPLINE entity, line 68996
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=12
+SPLINE entity, line 69102
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 69720
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 70338
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 70956
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 71574
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 72192
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 72426
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 72660
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 72830
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 73032
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 73266
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 73436
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 73638
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 73872
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 74042
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 74212
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 74830
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 75448
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 76066
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 76684
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 77302
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 77536
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 77770
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 77940
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 78142
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 78376
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 78546
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 78748
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 78982
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 79152
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 79322
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 79940
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 80558
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 81176
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 81794
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 82412
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 82646
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 82880
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 83050
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 83252
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 83486
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 83656
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 83858
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 84092
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 84262
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 84432
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 85050
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 85668
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 86286
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 86904
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 87522
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 87756
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 87990
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 88160
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 88362
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 88596
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 88766
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 88968
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 89202
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 89372
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 89542
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 90160
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 90778
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 91396
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 92014
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 92632
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 92866
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 93100
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 93270
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 93472
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=32
+SPLINE entity, line 93738
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 93908
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 94110
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 94344
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 94514
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 94684
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=120
+SPLINE entity, line 95654
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=120
+SPLINE entity, line 96624
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=120
+SPLINE entity, line 97594
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=120
+SPLINE entity, line 98564
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=120
+SPLINE entity, line 99534
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=120
+SPLINE entity, line 100504
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 100674
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 100844
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 101078
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 101312
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=32
+SPLINE entity, line 101578
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 101812
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 102014
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 102248
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=36
+SPLINE entity, line 102546
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 102716
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 102918
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=32
+SPLINE entity, line 103184
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=32
+SPLINE entity, line 103450
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 103620
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 103854
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 104024
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 104258
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 104428
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 104598
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 104800
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 105002
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 105172
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 105342
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 105576
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 105778
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 106012
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 106246
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 106416
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 106618
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 106820
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 107022
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=28
+SPLINE entity, line 107256
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 107458
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=24
+SPLINE entity, line 107660
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 107830
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=36
+SPLINE entity, line 108128
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=36
+IMAGE entity, line 108426
+WARNING (108426): Entity expected, found 'IMAGE' - ignored.
+SPLINE entity, line 108496
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=16
+IMAGE entity, line 108634
+WARNING (108634): Entity expected, found 'IMAGE' - ignored.
+SPLINE entity, line 108704
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=12
+SPLINE entity, line 108810
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 108982
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 109154
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 109326
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=116
+SPLINE entity, line 110266
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=68
+SPLINE entity, line 110822
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=44
+SPLINE entity, line 111186
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 111358
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=20
+SPLINE entity, line 111530
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=104
+SPLINE entity, line 112374
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=32
+SPLINE entity, line 112642
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=44
+SPLINE entity, line 113006
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=104
+SPLINE entity, line 113850
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=32
+SPLINE entity, line 114118
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=68
+SPLINE entity, line 114674
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=44
+SPLINE entity, line 115038
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 115658
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=104
+SPLINE entity, line 116502
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=32
+SPLINE entity, line 116770
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=68
+SPLINE entity, line 117326
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=44
+SPLINE entity, line 117690
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=104
+SPLINE entity, line 118534
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=32
+SPLINE entity, line 118802
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=44
+SPLINE entity, line 119166
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=68
+SPLINE entity, line 119722
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=44
+SPLINE entity, line 120086
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=76
+SPLINE entity, line 120706
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=44
+SPLINE entity, line 121070
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=104
+SPLINE entity, line 121914
+SPLINE: layer="Capa 1", flags=0x0B, degree=3, num knots=32
